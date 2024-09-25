@@ -13,7 +13,7 @@ console.log(areaQuadrado(6));
 
 
 
-let nome= parseint(prompt("valores"))
+let nome= parseint(prompt("valores"));
 document write(valores);
 
 
