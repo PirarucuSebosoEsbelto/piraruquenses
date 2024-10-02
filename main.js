@@ -25,18 +25,26 @@
 // }
 // console.log(media(3,2,1));
 
-let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO"];
+// let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO"];
 
-let i=0;
+// let i=0;
 
-while(i<estados.length){
-    console.log(i);
-    console.log(estados[i]);
-    i=i+1;
-}
+// while(i<estados.length){
+//     console.log(i);
+//     console.log(estados[i]);
+//     i=i+1;
+// }
 
-for (let i = 0; i < estados.length; i++) {
-    console.log(1);
-    console.log(estados[i]);
+// for (let i = 0; i < estados.length; i++) {
+//     console.log(1);
+//     console.log(estados[i]);
     
+// }
+
+let idade=17;
+if(idade>17){
+    console.log("pode dirigir");
+}
+else{
+    console.log("não pode dirigir")
 }
