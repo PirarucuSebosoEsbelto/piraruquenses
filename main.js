@@ -33,5 +33,10 @@ while(i<estados.length){
     console.log(i);
     console.log(estados[i]);
     i=i+1;
+}
 
+for (let i = 0; i < estados.length; i++) {
+    console.log(1);
+    console.log(estados[i]);
+    
 }
